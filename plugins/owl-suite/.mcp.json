@@ -1,0 +1,6 @@
+{
+  "owl-suite": {
+    "type": "http",
+    "url": "${user_config.url}"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "owl-suite",
+  "version": "1.0.0",
+  "description": "Owl Suite（Owl DB・Owl CRM・Owl Deal など）を Claude Code から使うための接続（MCP）。ログインして許可すると、あなたの権限で会社・コンタクト・案件・活動などを読み書きできます。",
+  "author": {
+    "name": "Owl Data"
+  },
+  "homepage": "https://suite.owl-data.jp",
+  "privacyPolicyUrl": "https://owl-data.jp/privacy/",
+  "userConfig": {
+    "url": {
+      "type": "string",
+      "title": "接続用のURL",
+      "description": "Owl Suite の 設定 ＞ APIトークン ＞ 接続方法 に表示されるURL。組織ごとに異なります（例：https://suite.owl-data.jp/o/<組織の短い名前>/mcp）。分からなければそのままで構いません。",
+      "default": "https://suite.owl-data.jp/mcp"
+    }
+  }
+}

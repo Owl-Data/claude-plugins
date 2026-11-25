@@ -1,0 +1,17 @@
+{
+  "name": "owl-data",
+  "owner": {
+    "name": "Owl Data"
+  },
+  "metadata": {
+    "description": "株式会社Owl Data の Claude Code 向けプラグイン",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "owl-suite",
+      "description": "Owl Suite（Owl DB・Owl CRM・Owl Deal など）を Claude Code から使うための接続（MCP）",
+      "source": "./plugins/owl-suite"
+    }
+  ]
+}
