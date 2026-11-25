@@ -6,6 +6,7 @@
     "name": "Owl Data"
   },
   "homepage": "https://suite.owl-data.jp",
+  "license": "MIT",
   "privacyPolicyUrl": "https://owl-data.jp/privacy/",
   "userConfig": {
     "url": {
