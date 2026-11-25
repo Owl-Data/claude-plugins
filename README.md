@@ -39,3 +39,7 @@ Claude Code で、次の 2 つを順に実行します。
 ### Privacy
 
 [プライバシーポリシー](https://owl-data.jp/privacy/)
+
+## License
+
+このリポジトリの設定ファイルと説明書は [MIT License](LICENSE) です。「Owl Data」「Owl Suite」の名前とロゴは、このライセンスの対象ではありません。
